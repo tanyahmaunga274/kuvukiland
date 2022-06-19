@@ -79,7 +79,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'sql4500793',
-        'HOST': 'https://sql4.freemysqlhosting.net',
+        'HOST': 'sql4.freemysqlhosting.net',
         'USER': 'sql4500793',
         'PORT': 3306,
         'PASSWORD': 'rGk2Spsfdu'
