@@ -78,11 +78,11 @@ WSGI_APPLICATION = 'kuvukibackend.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'kuvukiland',
-        'HOST': 'localhost',
-        'USER': 'root',
+        'NAME': 'sql4500793',
+        'HOST': 'sql4.freemysqlhosting.net',
+        'USER': 'sql4500793',
         'PORT': 3306,
-        'PASSWORD': 'root'
+        'PASSWORD': 'rGk2Spsfdu'
     }
 }
 
