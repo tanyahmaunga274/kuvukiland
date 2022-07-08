@@ -38,7 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'base.apps.BaseConfig'
+    'base.apps.BaseConfig',
+    'rest_framework.authtoken',
+    'djoser',
 ]
 
 MIDDLEWARE = [
@@ -78,7 +80,9 @@ WSGI_APPLICATION = 'kuvukibackend.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
+
         'NAME': BASE_DIR/'db.sqlite3',
+
     }
 }
 
