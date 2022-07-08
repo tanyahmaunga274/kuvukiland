@@ -13,8 +13,9 @@
     "@sanity/client": "^3.3.2",
     "@sanity/image-url": "^1.0.1",
     "next": "12.1.6",
+    "npm-install-global": "^1.0.0",
     "react": "^18.2.0",
-    "react-dom": "18.2.0",
+    "react-dom": "^18.2.0",
     "react-hot-toast": "^2.2.0",
     "react-icons": "^4.4.0",
     "tailwind-icons": "^1.0.1"
