@@ -1,6 +1,10 @@
 import React from "react";
 import Link from "next/link";
 import { urlFor} from "../library/client"
+<<<<<<< HEAD
+
+=======
+>>>>>>> e7204bf146f4b62cd79596f255a57a9dbecabce4
 const HeroBanner = ({ heroBanner }) => {
   return (
     <div className="hero-banner-container">
